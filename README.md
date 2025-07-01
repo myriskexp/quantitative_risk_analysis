@@ -42,6 +42,6 @@
 
 ---
 
-### 📸 Visuals (Optional)
+### 📸 Examples
 
 ![Histograma_Escenario_1_Costos](https://github.com/user-attachments/assets/c6cb8547-4b46-4b86-a94a-db62638c8bc7)
