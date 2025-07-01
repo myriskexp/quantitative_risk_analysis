@@ -44,8 +44,6 @@
 
 ### 📸 Visuals (Optional)
 
-Add diagrams here using this syntax:
-```markdown
 ![Chart Example](assets/tornado_chart.png)
 
 
