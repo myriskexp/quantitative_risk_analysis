@@ -1,4 +1,4 @@
-### 👋 Hello! I'm [Your Name]
+### 👋 Hello! I'm David Medina
 🎯 Decision Modeling | 🧮 Risk Analysis | 📊 Excel, Monte Carlo, Optimization
 
 ---
