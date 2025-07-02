@@ -47,4 +47,4 @@
 ![Histograma_Escenario_1_Costos](https://github.com/user-attachments/assets/c6cb8547-4b46-4b86-a94a-db62638c8bc7)
 
 
-![Risk Analysis Charts](https://github.com/user-attachments/assets/3aee9fbb-7402-4089-a438-e31ef3c2f4b4)
+![Risk Analysis Uoutputs](https://github.com/user-attachments/assets/46d2537c-abd8-4f23-99a9-c8739f269802)
